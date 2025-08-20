@@ -24,7 +24,7 @@ A simple, lightweight chat app built with **React Native** where users can creat
 <p align="center">
   <img src="./assets/loginPage.png" alt="Login Page" width="200"/>
   <img src="./assets/chatPage.png" alt="Chat Page" width="200"/>
-  <img src="./assets/overView.png" alt="Chat Page" width="200"/>
+  <img src="./assets/overviewPage.png" alt="Chat Page" width="200"/>
 </p>
 
 ---
