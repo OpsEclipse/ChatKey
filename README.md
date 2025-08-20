@@ -19,11 +19,12 @@ A simple, lightweight chat app built with **React Native** where users can creat
 - **NativeWind (Tailwind for React Native)**
 
 ---
-
 ## 📸 Screenshots
+
 <p align="center">
-  <img src="./assets/splash.png" alt="Splash Screen" width="200"/>
-  <img src="./assets/chat.png" alt="Chat Screen" width="200"/>
+  <img src="./assets/loginPage.png" alt="Login Page" width="200"/>
+  <img src="./assets/chatPage.png" alt="Chat Page" width="200"/>
+  <img src="./assets/overView.png" alt="Chat Page" width="200"/>
 </p>
 
 ---
@@ -32,6 +33,6 @@ A simple, lightweight chat app built with **React Native** where users can creat
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/chatkey.git
+   git clone https://github.com/OpsEclipse/chatkey.git
    cd chatkey
 
