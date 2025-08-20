@@ -3,13 +3,23 @@
 A simple, lightweight chat app built with **React Native** where users can create a chat and join using a unique chat key.  
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./assets/loginPage.png" alt="Login Page" width="200"/>
+  <img src="./assets/chatPage.png" alt="Chat Page" width="200"/>
+  <img src="./assets/overviewPage.png" alt="Chat Page" width="200"/>
+  <img src="./assets/friendsPage.png" alt="Chat Page" width="200"/>
+</p>
+
+---
 
 ## ✨ Features
-- 🔑 Create a new chat room with a unique key
-- 👥 Join existing chats using the chat key
-- 💬 Real-time messaging
-- 🔄 Pull-to-refresh for latest messages
-- 📱 Cross-platform (iOS & Android with Expo)
+- Create a new chat room with a unique key
+- Join existing chats using the chat key
+- Real-time messaging
+- Pull-to-refresh for latest messages
+- Cross-platform (iOS & Android with Expo)
 
 ---
 
@@ -17,15 +27,6 @@ A simple, lightweight chat app built with **React Native** where users can creat
 - **React Native (Expo)**
 - **Firebase (backend)**
 - **NativeWind (Tailwind for React Native)**
-
----
-## 📸 Screenshots
-
-<p align="center">
-  <img src="./assets/loginPage.png" alt="Login Page" width="200"/>
-  <img src="./assets/chatPage.png" alt="Chat Page" width="200"/>
-  <img src="./assets/overviewPage.png" alt="Chat Page" width="200"/>
-</p>
 
 ---
 
