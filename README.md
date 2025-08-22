@@ -2,6 +2,8 @@
 
 A simple, lightweight chat app built with **React Native** where users can create a chat and join using a unique chat key.  
 
+For a quick demo of the app on IOS, click [here](https://www.youtube.com/shorts/DRrh8PuZnFk)
+
 ---
 ## 📸 Screenshots
 
